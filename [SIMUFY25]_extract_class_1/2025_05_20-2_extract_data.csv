@@ -1,0 +1,51 @@
+menu_id,date,label,ingredients,allergens,price
+MD-2200,2024-05-13,Grilled Chicken,"chicken, spices",nuts,7.1
+MD-2201,2024-05-13,Vegetable Stir Fry,"vegetables, soy sauce",nuts,7.86
+MD-2202,2024-05-13,Beef Lasagna,"beef, pasta, cheese",soy,9.96
+MD-2203,2024-05-13,Quinoa Salad,"quinoa, vegetables",soy,5.07
+MD-2204,2024-05-13,Fish and Chips,"fish, potatoes",dairy,7.56
+MD-2205,2024-05-13,Tomato Basil Soup,"tomatoes, basil",soy,9.7
+MD-2206,2024-05-13,Pulled Pork Sandwich,"pork, bread",soy,9.93
+MD-2207,2024-05-13,Veggie Burger,"soy, beans",gluten,8.87
+MD-2208,2024-05-13,Chicken Caesar Wrap,"chicken, lettuce",none,9.98
+MD-2209,2024-05-13,Lamb Curry,"lamb, curry",soy,7.19
+MD-2210,2024-05-13,Tofu Teriyaki,"tofu, teriyaki sauce",nuts,7.55
+MD-2211,2024-05-13,BBQ Ribs,"ribs, bbq sauce",none,8.86
+MD-2212,2024-05-13,Shrimp Tacos,"shrimp, tortillas",nuts,5.04
+MD-2213,2024-05-13,Spaghetti Carbonara,"pasta, eggs, bacon",nuts,9.54
+MD-2214,2024-05-13,Eggplant Parmesan,"eggplant, tomato sauce",nuts,8.27
+MD-2215,2024-05-13,Turkey Meatballs,"turkey, herbs",soy,9.64
+MD-2216,2024-05-13,Sushi Platter,"fish, rice",gluten,8.82
+MD-2217,2024-05-13,Falafel Plate,"chickpeas, spices",nuts,8.06
+MD-2218,2024-05-13,Grilled Salmon,"salmon, herbs",soy,5.98
+MD-2219,2024-05-13,Pasta Primavera,"pasta, vegetables",dairy,8.91
+MD-2220,2024-05-13,Roast Duck,"duck, glaze",gluten,8.56
+MD-2221,2024-05-13,Miso Soup,"miso, tofu",soy,7.63
+MD-2222,2024-05-13,Baked Ziti,"pasta, cheese",nuts,8.92
+MD-2223,2024-05-13,Chicken Biryani,"chicken, rice",gluten,5.39
+MD-2224,2024-05-13,Tuna Salad,"tuna, mayonnaise",nuts,5.39
+MD-2225,2024-05-13,French Onion Soup,"onions, beef broth",gluten,9.1
+MD-2226,2024-05-13,Clam Chowder,"clams, cream",gluten,7.47
+MD-2227,2024-05-13,Cheeseburger,"beef, cheese, bread",soy,6.93
+MD-2228,2024-05-13,Roasted Veggies,"zucchini, carrots",soy,6.52
+MD-2229,2024-05-13,Chicken Alfredo,"pasta, cream",none,7.52
+MD-2230,2024-05-13,Mac and Cheese,"cheese, pasta",nuts,7.63
+MD-2231,2024-05-13,Beef Stroganoff,"beef, mushrooms",dairy,5.73
+MD-2232,2024-05-13,Cobb Salad,"lettuce, bacon",none,8.69
+MD-2233,2024-05-13,Greek Gyro,"lamb, pita",soy,7.31
+MD-2234,2024-05-13,Stuffed Peppers,"peppers, rice",none,8.51
+MD-2235,2024-05-13,Chili Con Carne,"beef, beans",soy,8.51
+MD-2236,2024-05-13,Fried Rice,"rice, vegetables",none,9.41
+MD-2237,2024-05-13,Chicken Tikka Masala,"chicken, spices",none,8.2
+MD-2238,2024-05-13,Vegetable Paella,"rice, vegetables",soy,9.99
+MD-2239,2024-05-13,Beef Burrito,"beef, tortilla",soy,9.82
+MD-2240,2024-05-13,Pork Schnitzel,"pork, breadcrumbs",nuts,8.37
+MD-2241,2024-05-13,Teriyaki Salmon,"salmon, teriyaki sauce",none,9.34
+MD-2242,2024-05-13,Seafood Pasta,"pasta, seafood",gluten,7.94
+MD-2243,2024-05-13,Chicken Quesadilla,"chicken, cheese",soy,8.81
+MD-2244,2024-05-13,Spinach Quiche,"spinach, eggs",none,9.37
+MD-2245,2024-05-13,Gnocchi with Pesto,"potatoes, pesto",none,9.13
+MD-2246,2024-05-13,BBQ Chicken Pizza,"chicken, bbq sauce",soy,9.39
+MD-2247,2024-05-13,Stuffed Mushrooms,"mushrooms, cheese",gluten,8.65
+MD-2248,2024-05-13,Korean Bibimbap,"beef, egg",nuts,7.96
+MD-2249,2024-05-13,Beet Salad,"beets, goat cheese",none,8.28
