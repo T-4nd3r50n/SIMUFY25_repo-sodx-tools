@@ -1,51 +1,51 @@
-menu_id,date,label,ingredients,allergens,price
-MD-2200,2024-05-13,Grilled Chicken,"chicken, spices",nuts,7.1
-MD-2201,2024-05-13,Vegetable Stir Fry,"vegetables, soy sauce",nuts,7.86
-MD-2202,2024-05-13,Beef Lasagna,"beef, pasta, cheese",soy,9.96
-MD-2203,2024-05-13,Quinoa Salad,"quinoa, vegetables",soy,5.07
-MD-2204,2024-05-13,Fish and Chips,"fish, potatoes",dairy,7.56
-MD-2205,2024-05-13,Tomato Basil Soup,"tomatoes, basil",soy,9.7
-MD-2206,2024-05-13,Pulled Pork Sandwich,"pork, bread",soy,9.93
-MD-2207,2024-05-13,Veggie Burger,"soy, beans",gluten,8.87
-MD-2208,2024-05-13,Chicken Caesar Wrap,"chicken, lettuce",none,9.98
-MD-2209,2024-05-13,Lamb Curry,"lamb, curry",soy,7.19
-MD-2210,2024-05-13,Tofu Teriyaki,"tofu, teriyaki sauce",nuts,7.55
-MD-2211,2024-05-13,BBQ Ribs,"ribs, bbq sauce",none,8.86
-MD-2212,2024-05-13,Shrimp Tacos,"shrimp, tortillas",nuts,5.04
-MD-2213,2024-05-13,Spaghetti Carbonara,"pasta, eggs, bacon",nuts,9.54
-MD-2214,2024-05-13,Eggplant Parmesan,"eggplant, tomato sauce",nuts,8.27
-MD-2215,2024-05-13,Turkey Meatballs,"turkey, herbs",soy,9.64
-MD-2216,2024-05-13,Sushi Platter,"fish, rice",gluten,8.82
-MD-2217,2024-05-13,Falafel Plate,"chickpeas, spices",nuts,8.06
-MD-2218,2024-05-13,Grilled Salmon,"salmon, herbs",soy,5.98
-MD-2219,2024-05-13,Pasta Primavera,"pasta, vegetables",dairy,8.91
-MD-2220,2024-05-13,Roast Duck,"duck, glaze",gluten,8.56
-MD-2221,2024-05-13,Miso Soup,"miso, tofu",soy,7.63
-MD-2222,2024-05-13,Baked Ziti,"pasta, cheese",nuts,8.92
-MD-2223,2024-05-13,Chicken Biryani,"chicken, rice",gluten,5.39
-MD-2224,2024-05-13,Tuna Salad,"tuna, mayonnaise",nuts,5.39
-MD-2225,2024-05-13,French Onion Soup,"onions, beef broth",gluten,9.1
-MD-2226,2024-05-13,Clam Chowder,"clams, cream",gluten,7.47
-MD-2227,2024-05-13,Cheeseburger,"beef, cheese, bread",soy,6.93
-MD-2228,2024-05-13,Roasted Veggies,"zucchini, carrots",soy,6.52
-MD-2229,2024-05-13,Chicken Alfredo,"pasta, cream",none,7.52
-MD-2230,2024-05-13,Mac and Cheese,"cheese, pasta",nuts,7.63
-MD-2231,2024-05-13,Beef Stroganoff,"beef, mushrooms",dairy,5.73
-MD-2232,2024-05-13,Cobb Salad,"lettuce, bacon",none,8.69
-MD-2233,2024-05-13,Greek Gyro,"lamb, pita",soy,7.31
-MD-2234,2024-05-13,Stuffed Peppers,"peppers, rice",none,8.51
-MD-2235,2024-05-13,Chili Con Carne,"beef, beans",soy,8.51
-MD-2236,2024-05-13,Fried Rice,"rice, vegetables",none,9.41
-MD-2237,2024-05-13,Chicken Tikka Masala,"chicken, spices",none,8.2
-MD-2238,2024-05-13,Vegetable Paella,"rice, vegetables",soy,9.99
-MD-2239,2024-05-13,Beef Burrito,"beef, tortilla",soy,9.82
-MD-2240,2024-05-13,Pork Schnitzel,"pork, breadcrumbs",nuts,8.37
-MD-2241,2024-05-13,Teriyaki Salmon,"salmon, teriyaki sauce",none,9.34
-MD-2242,2024-05-13,Seafood Pasta,"pasta, seafood",gluten,7.94
-MD-2243,2024-05-13,Chicken Quesadilla,"chicken, cheese",soy,8.81
-MD-2244,2024-05-13,Spinach Quiche,"spinach, eggs",none,9.37
-MD-2245,2024-05-13,Gnocchi with Pesto,"potatoes, pesto",none,9.13
-MD-2246,2024-05-13,BBQ Chicken Pizza,"chicken, bbq sauce",soy,9.39
-MD-2247,2024-05-13,Stuffed Mushrooms,"mushrooms, cheese",gluten,8.65
-MD-2248,2024-05-13,Korean Bibimbap,"beef, egg",nuts,7.96
-MD-2249,2024-05-13,Beet Salad,"beets, goat cheese",none,8.28
+Menu_id,Date,Assortment,Receipe,Retail_Item,Retail_Price,Article,MenuPlan
+M-4164,2025-05-20,Vegan,Veggie Burger,Chicken Breast,10.6,BF-003,Standard
+M-3889,2025-05-20,Seafood,Grilled Chicken,Tofu Block,10.16,BB-004,Economy
+M-3818,2025-05-20,Vegan,Tofu Stir Fry,Ground Beef,9.35,BB-004,Economy
+M-4570,2025-05-20,Seafood,Veggie Burger,Quinoa Pack,12.69,QP-005,Premium
+M-6810,2025-05-20,Vegetarian,Grilled Chicken,Tofu Block,9.3,QP-005,Standard
+M-8968,2025-05-20,Meat,Veggie Burger,Chicken Breast,6.12,BB-004,Economy
+M-6751,2025-05-20,Seafood,Quinoa Salad,Quinoa Pack,6.91,QP-005,Premium
+M-6754,2025-05-20,Gluten-Free,Quinoa Salad,Quinoa Pack,5.11,QP-005,Express
+M-5743,2025-05-20,Seafood,Veggie Burger,Quinoa Pack,7.5,QP-005,Deluxe
+M-4720,2025-05-20,Vegetarian,Tofu Stir Fry,Tofu Block,6.55,QP-005,Standard
+M-2565,2025-05-20,Seafood,Grilled Chicken,Quinoa Pack,7.58,TF-002,Premium
+M-9009,2025-05-20,Vegetarian,Veggie Burger,Tofu Block,5.87,BF-003,Standard
+M-3086,2025-05-20,Meat,Quinoa Salad,Chicken Breast,5.52,CH-001,Express
+M-5348,2025-05-20,Vegetarian,Tofu Stir Fry,Ground Beef,13.01,BF-003,Express
+M-2710,2025-05-20,Vegan,Beef Lasagna,Quinoa Pack,13.09,TF-002,Standard
+M-5959,2025-05-20,Vegetarian,Tofu Stir Fry,Burger Bun,9.13,BF-003,Deluxe
+M-1127,2025-05-20,Gluten-Free,Beef Lasagna,Burger Bun,14.6,BF-003,Express
+M-9791,2025-05-20,Seafood,Grilled Chicken,Quinoa Pack,12.52,TF-002,Express
+M-4928,2025-05-20,Seafood,Grilled Chicken,Tofu Block,14.69,CH-001,Deluxe
+M-7522,2025-05-20,Seafood,Quinoa Salad,Burger Bun,10.64,CH-001,Express
+M-1520,2025-05-20,Vegetarian,Grilled Chicken,Tofu Block,12.18,CH-001,Express
+M-9759,2025-05-20,Meat,Veggie Burger,Quinoa Pack,12.14,BF-003,Deluxe
+M-8547,2025-05-20,Seafood,Quinoa Salad,Tofu Block,8.96,TF-002,Standard
+M-5448,2025-05-20,Gluten-Free,Quinoa Salad,Ground Beef,5.25,BB-004,Express
+M-8234,2025-05-20,Meat,Quinoa Salad,Quinoa Pack,14.38,CH-001,Standard
+M-7723,2025-05-20,Vegan,Quinoa Salad,Tofu Block,12.87,BF-003,Standard
+M-5459,2025-05-20,Seafood,Grilled Chicken,Burger Bun,5.51,CH-001,Standard
+M-8926,2025-05-20,Vegetarian,Veggie Burger,Chicken Breast,11.92,TF-002,Express
+M-6560,2025-05-20,Meat,Veggie Burger,Chicken Breast,11.49,BB-004,Premium
+M-5230,2025-05-20,Gluten-Free,Beef Lasagna,Ground Beef,7.63,BB-004,Standard
+M-2768,2025-05-20,Meat,Quinoa Salad,Chicken Breast,14.37,BF-003,Deluxe
+M-3457,2025-05-20,Meat,Beef Lasagna,Chicken Breast,13.83,CH-001,Economy
+M-7924,2025-05-20,Meat,Quinoa Salad,Quinoa Pack,14.83,TF-002,Premium
+M-5370,2025-05-20,Vegetarian,Tofu Stir Fry,Tofu Block,8.29,BF-003,Premium
+M-7271,2025-05-20,Seafood,Veggie Burger,Tofu Block,12.97,TF-002,Premium
+M-7522,2025-05-20,Vegan,Veggie Burger,Burger Bun,10.51,BF-003,Premium
+M-9973,2025-05-20,Meat,Tofu Stir Fry,Quinoa Pack,14.86,TF-002,Express
+M-1359,2025-05-20,Vegan,Grilled Chicken,Quinoa Pack,11.08,CH-001,Premium
+M-1839,2025-05-20,Gluten-Free,Veggie Burger,Chicken Breast,12.05,TF-002,Deluxe
+M-8770,2025-05-20,Vegetarian,Veggie Burger,Tofu Block,6.81,QP-005,Standard
+M-7952,2025-05-20,Meat,Grilled Chicken,Tofu Block,14.82,TF-002,Premium
+M-8627,2025-05-20,Vegan,Beef Lasagna,Tofu Block,7.54,QP-005,Standard
+M-2904,2025-05-20,Gluten-Free,Beef Lasagna,Burger Bun,10.84,QP-005,Deluxe
+M-3299,2025-05-20,Gluten-Free,Beef Lasagna,Tofu Block,7.64,QP-005,Premium
+M-4285,2025-05-20,Seafood,Quinoa Salad,Ground Beef,8.12,BF-003,Express
+M-7546,2025-05-20,Meat,Beef Lasagna,Chicken Breast,13.56,CH-001,Express
+M-9060,2025-05-20,Vegetarian,Quinoa Salad,Chicken Breast,6.88,TF-002,Express
+M-6810,2025-05-20,Seafood,Tofu Stir Fry,Chicken Breast,14.25,CH-001,Deluxe
+M-8852,2025-05-20,Vegetarian,Veggie Burger,Tofu Block,11.58,CH-001,Express
+M-5115,2025-05-20,Vegetarian,Grilled Chicken,Ground Beef,7.9,BB-004,Standard

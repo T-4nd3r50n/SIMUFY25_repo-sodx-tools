@@ -1,51 +1,51 @@
-menu_id,date,label,ingredients,allergens,price
-MD-3000,2025-05-21,Serious inside else,"mushrooms, cream",dairy,5.4
-MD-3001,2025-05-21,Magazine truth stop,"shrimp, garlic",dairy,9.05
-MD-3002,2025-05-21,Group through despite,"pasta, tomato sauce",dairy,8.58
-MD-3003,2025-05-21,Example sense,"fish, lemon",shellfish,6.39
-MD-3004,2025-05-21,Son would mouth relate,"tofu, vegetables",none,11.18
-MD-3005,2025-05-21,Total financial role together,"pasta, tomato sauce",shellfish,14.83
-MD-3006,2025-05-21,Line beyond its,"turkey, cranberry",gluten,8.1
-MD-3007,2025-05-21,Policy daughter need kind,"zucchini, basil",none,13.99
-MD-3008,2025-05-21,Employee source nature,"eggplant, cheese",nuts,9.72
-MD-3009,2025-05-21,Better,"beef, potatoes",nuts,9.34
-MD-3010,2025-05-21,Report size personal,"turkey, cranberry",soy,14.13
-MD-3011,2025-05-21,Management test during foot,"shrimp, garlic",dairy,9.43
-MD-3012,2025-05-21,Course nothing,"shrimp, garlic",nuts,5.62
-MD-3013,2025-05-21,Sound central,"shrimp, garlic",none,5.93
-MD-3014,2025-05-21,Language ball floor,"mushrooms, cream",soy,13.25
-MD-3015,2025-05-21,Your majority feeling,"eggplant, cheese",soy,5.01
-MD-3016,2025-05-21,Religious natural,"lamb, herbs",nuts,7.44
-MD-3017,2025-05-21,Data son natural,"quinoa, beans",soy,13.7
-MD-3018,2025-05-21,Knowledge other,"fish, lemon",shellfish,7.22
-MD-3019,2025-05-21,First drug contain,"tofu, vegetables",shellfish,9.48
-MD-3020,2025-05-21,Almost wonder,"beef, potatoes",nuts,13.75
-MD-3021,2025-05-21,Live bed,"lamb, herbs",none,8.01
-MD-3022,2025-05-21,Theory type,"pasta, tomato sauce",soy,6.25
-MD-3023,2025-05-21,Together type,"quinoa, beans",shellfish,7.03
-MD-3024,2025-05-21,Raise study modern,"turkey, cranberry",shellfish,10.88
-MD-3025,2025-05-21,Speech support time,"lamb, herbs",none,10.96
-MD-3026,2025-05-21,Stay information every manage,"mushrooms, cream",nuts,10.76
-MD-3027,2025-05-21,Bank party main,"pasta, tomato sauce",gluten,6.89
-MD-3028,2025-05-21,Friend couple administration even,"tofu, vegetables",none,11.13
-MD-3029,2025-05-21,Head color,"eggplant, cheese",nuts,9.77
-MD-3030,2025-05-21,Staff beyond chair,"beef, potatoes",soy,12.58
-MD-3031,2025-05-21,And off,"tofu, vegetables",none,13.42
-MD-3032,2025-05-21,Own available buy,"zucchini, basil",shellfish,11.83
-MD-3033,2025-05-21,Paper office,"zucchini, basil",shellfish,7.76
-MD-3034,2025-05-21,Before street break,"fish, lemon",gluten,13.95
-MD-3035,2025-05-21,Against which continue buy,"turkey, cranberry",dairy,10.8
-MD-3036,2025-05-21,Road article,"lamb, herbs",dairy,11.6
-MD-3037,2025-05-21,Off,"zucchini, basil",nuts,5.82
-MD-3038,2025-05-21,Per structure attorney,"turkey, cranberry",none,9.86
-MD-3039,2025-05-21,Positive go,"eggplant, cheese",nuts,13.45
-MD-3040,2025-05-21,Article level,"fish, lemon",none,12.31
-MD-3041,2025-05-21,Beyond write current grow,"beef, potatoes",soy,7.2
-MD-3042,2025-05-21,Stuff truth college,"tofu, vegetables",nuts,9.26
-MD-3043,2025-05-21,Whom around,"chicken, rice",none,12.83
-MD-3044,2025-05-21,Suddenly garden,"zucchini, basil",gluten,5.45
-MD-3045,2025-05-21,Bring TV,"turkey, cranberry",soy,14.1
-MD-3046,2025-05-21,Actually race,"shrimp, garlic",shellfish,11.81
-MD-3047,2025-05-21,Themselves true power,"chicken, rice",none,11.35
-MD-3048,2025-05-21,Study economy night,"turkey, cranberry",shellfish,6.2
-MD-3049,2025-05-21,Lot,"beef, potatoes",nuts,13.34
+Menu_id,Date,Assortment,Receipe,Retail_Item,Retail_Price,Article,MenuPlan
+M-2378,2025-05-21,Meat,Beef Lasagna,Chicken Breast,6.98,QP-005,Standard
+M-6470,2025-05-21,Seafood,Veggie Burger,Ground Beef,7.8,BB-004,Express
+M-4651,2025-05-21,Vegan,Quinoa Salad,Tofu Block,7.73,TF-002,Standard
+M-7838,2025-05-21,Gluten-Free,Tofu Stir Fry,Chicken Breast,10.19,CH-001,Standard
+M-2534,2025-05-21,Gluten-Free,Grilled Chicken,Burger Bun,10.45,TF-002,Deluxe
+M-3036,2025-05-21,Vegetarian,Tofu Stir Fry,Ground Beef,8.03,TF-002,Deluxe
+M-8742,2025-05-21,Vegan,Veggie Burger,Ground Beef,6.23,QP-005,Premium
+M-3223,2025-05-21,Meat,Beef Lasagna,Chicken Breast,10.36,CH-001,Deluxe
+M-1134,2025-05-21,Seafood,Beef Lasagna,Burger Bun,14.51,BF-003,Premium
+M-7163,2025-05-21,Meat,Grilled Chicken,Ground Beef,11.81,BF-003,Premium
+M-9187,2025-05-21,Meat,Grilled Chicken,Chicken Breast,7.2,CH-001,Economy
+M-2677,2025-05-21,Vegetarian,Veggie Burger,Chicken Breast,7.91,TF-002,Economy
+M-3633,2025-05-21,Meat,Tofu Stir Fry,Quinoa Pack,14.89,BF-003,Deluxe
+M-4259,2025-05-21,Gluten-Free,Grilled Chicken,Quinoa Pack,10.21,CH-001,Standard
+M-9263,2025-05-21,Vegan,Quinoa Salad,Quinoa Pack,10.23,BB-004,Deluxe
+M-2707,2025-05-21,Seafood,Beef Lasagna,Tofu Block,11.84,TF-002,Premium
+M-8903,2025-05-21,Meat,Beef Lasagna,Chicken Breast,14.92,CH-001,Economy
+M-5848,2025-05-21,Seafood,Beef Lasagna,Quinoa Pack,13.67,QP-005,Express
+M-6372,2025-05-21,Seafood,Quinoa Salad,Tofu Block,5.49,TF-002,Deluxe
+M-6142,2025-05-21,Seafood,Quinoa Salad,Tofu Block,14.98,BB-004,Premium
+M-7407,2025-05-21,Gluten-Free,Veggie Burger,Ground Beef,6.82,CH-001,Economy
+M-6614,2025-05-21,Vegetarian,Veggie Burger,Tofu Block,9.93,CH-001,Premium
+M-5116,2025-05-21,Seafood,Veggie Burger,Burger Bun,9.34,TF-002,Premium
+M-2054,2025-05-21,Vegan,Grilled Chicken,Ground Beef,6.84,TF-002,Deluxe
+M-8827,2025-05-21,Seafood,Beef Lasagna,Quinoa Pack,14.44,BB-004,Standard
+M-1261,2025-05-21,Gluten-Free,Tofu Stir Fry,Tofu Block,13.16,BB-004,Express
+M-6612,2025-05-21,Vegan,Veggie Burger,Tofu Block,6.25,TF-002,Premium
+M-9753,2025-05-21,Vegetarian,Grilled Chicken,Ground Beef,5.39,CH-001,Standard
+M-6945,2025-05-21,Seafood,Tofu Stir Fry,Chicken Breast,12.4,BF-003,Economy
+M-9462,2025-05-21,Vegan,Veggie Burger,Quinoa Pack,7.97,BB-004,Deluxe
+M-5860,2025-05-21,Vegetarian,Beef Lasagna,Chicken Breast,11.52,QP-005,Standard
+M-8604,2025-05-21,Vegetarian,Quinoa Salad,Chicken Breast,8.86,TF-002,Deluxe
+M-6931,2025-05-21,Meat,Grilled Chicken,Ground Beef,6.41,CH-001,Express
+M-1110,2025-05-21,Vegetarian,Quinoa Salad,Quinoa Pack,7.79,CH-001,Economy
+M-4242,2025-05-21,Gluten-Free,Grilled Chicken,Tofu Block,14.72,BB-004,Economy
+M-9019,2025-05-21,Vegetarian,Veggie Burger,Quinoa Pack,7.98,CH-001,Express
+M-9432,2025-05-21,Vegan,Grilled Chicken,Ground Beef,13.59,CH-001,Economy
+M-3127,2025-05-21,Gluten-Free,Grilled Chicken,Chicken Breast,5.94,CH-001,Economy
+M-4686,2025-05-21,Vegan,Quinoa Salad,Ground Beef,8.6,QP-005,Express
+M-4733,2025-05-21,Vegetarian,Veggie Burger,Chicken Breast,7.34,TF-002,Premium
+M-8567,2025-05-21,Seafood,Quinoa Salad,Ground Beef,10.02,QP-005,Economy
+M-6920,2025-05-21,Gluten-Free,Quinoa Salad,Chicken Breast,8.52,TF-002,Express
+M-1331,2025-05-21,Vegetarian,Beef Lasagna,Quinoa Pack,8.57,TF-002,Economy
+M-2990,2025-05-21,Gluten-Free,Quinoa Salad,Ground Beef,13.81,QP-005,Express
+M-2829,2025-05-21,Vegetarian,Veggie Burger,Ground Beef,6.34,QP-005,Economy
+M-7134,2025-05-21,Seafood,Tofu Stir Fry,Tofu Block,5.82,TF-002,Premium
+M-5155,2025-05-21,Gluten-Free,Quinoa Salad,Quinoa Pack,5.91,TF-002,Deluxe
+M-4849,2025-05-21,Vegan,Grilled Chicken,Burger Bun,13.5,TF-002,Deluxe
+M-9913,2025-05-21,Seafood,Grilled Chicken,Tofu Block,12.63,QP-005,Economy
+M-8959,2025-05-21,Vegetarian,Quinoa Salad,Tofu Block,10.43,QP-005,Deluxe
