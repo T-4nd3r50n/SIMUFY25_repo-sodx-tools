@@ -1,0 +1,51 @@
+Menu_id,Date,Assortment,Receipe,Retail_Item,Retail_Price,Article,MenuPlan
+MD-1101,2025-05-29,Low-Carb,Turkey Salad,Healthy Pack,7.31,Vegetables,Lunch
+MD-1102,2025-05-29,Low-Carb,Chickpea Curry,Plate,7.41,Vegetables,Classic
+MD-1103,2025-05-29,Classic,Grilled Salmon,Individual,7.37,Vegetables,Classic
+MD-1104,2025-05-29,Classic,Beef Lasagna,Bowl,8.27,Beef,Asian
+MD-1105,2025-05-29,Classic,Roast Pork,Basket,9.48,Vegetables,Classic
+MD-1106,2025-05-29,Low-Carb,Chicken Caesar Salad,Individual,7.85,Cheese,BBQ
+MD-1107,2025-05-29,Classic,Roast Pork,Individual,9.86,Quinoa,BBQ
+MD-1108,2025-05-29,Vegan,Quinoa Bowl,Individual,8.02,Cheese,Asian
+MD-1109,2025-05-29,Low-Carb,Margherita Pizza,Basket,9.03,Pork,Classic
+MD-1110,2025-05-29,Low-Carb,Quinoa Bowl,Sandwich,9.86,Beef,Italian
+MD-1111,2025-05-29,Low-Carb,Tofu Stir Fry,Meal Box,7.45,Salmon,Fitness
+MD-1112,2025-05-29,Low-Carb,Beef Lasagna,Meal Box,9.01,Vegetables,Spanish
+MD-1113,2025-05-29,Classic,Turkey Salad,Basket,6.59,Vegetables,Fitness
+MD-1114,2025-05-29,Low-Carb,Beef Stroganoff,Bowl,6.89,Chicken,Spanish
+MD-1115,2025-05-29,Low-Carb,Grilled Chicken Sandwich,Slice,7.42,Cheese,Fitness
+MD-1116,2025-05-29,Classic,Tofu Stir Fry,Plate,8.71,Vegetables,Fitness
+MD-1117,2025-05-29,Vegan,Beef Lasagna,Wrap,6.63,Turkey,Indian
+MD-1118,2025-05-29,Vegan,Beef Stroganoff,Slice,8.94,Turkey,Asian
+MD-1119,2025-05-29,Vegan,Grilled Salmon,Healthy Pack,6.07,Cheese,Spring
+MD-1120,2025-05-29,Vegetarian,Beef Stroganoff,Bowl,8.9,Salmon,Asian
+MD-1121,2025-05-29,Vegetarian,Beef Lasagna,Slice,9.73,Tofu,Fitness
+MD-1122,2025-05-29,Vegetarian,Turkey Salad,Basket,6.68,Salmon,Fitness
+MD-1123,2025-05-29,Low-Carb,Beef Stroganoff,Bowl,9.58,Chicken,Italian
+MD-1124,2025-05-29,Classic,Roast Pork,Slice,8.79,Beef,Lunch
+MD-1125,2025-05-29,Vegan,Grilled Salmon,Meal Box,7.14,Chicken,Fitness
+MD-1126,2025-05-29,Low-Carb,Margherita Pizza,Basket,6.68,Salmon,BBQ
+MD-1127,2025-05-29,Vegan,Grilled Chicken Sandwich,Individual,8.96,Quinoa,Fitness
+MD-1128,2025-05-29,Vegetarian,Margherita Pizza,Meal Box,6.82,Cheese,BBQ
+MD-1129,2025-05-29,Vegan,Quinoa Bowl,Basket,8.8,Salmon,Lunch
+MD-1130,2025-05-29,Low-Carb,Beef Stroganoff,Meal Box,7.55,Beef,Spanish
+MD-1131,2025-05-29,Vegan,Chicken Caesar Salad,Healthy Pack,8.77,Turkey,Vegan
+MD-1132,2025-05-29,Vegan,Margherita Pizza,Individual,9.97,Pork,Spanish
+MD-1133,2025-05-29,Vegetarian,Margherita Pizza,Plate,6.75,Pork,Spanish
+MD-1134,2025-05-29,Vegetarian,Vegetable Stir Fry,Healthy Pack,9.1,Salmon,Classic
+MD-1135,2025-05-29,Vegan,Turkey Salad,Wrap,6.8,Cheese,Spring
+MD-1136,2025-05-29,Low-Carb,Chickpea Curry,Healthy Pack,8.06,Quinoa,Italian
+MD-1137,2025-05-29,Classic,Chicken Caesar Salad,Healthy Pack,8.5,Turkey,Spanish
+MD-1138,2025-05-29,Low-Carb,Quinoa Bowl,Plate,7.64,Cheese,Lunch
+MD-1139,2025-05-29,Vegan,Chicken Caesar Salad,Plate,8.91,Beef,Lunch
+MD-1140,2025-05-29,Low-Carb,Grilled Chicken Sandwich,Wrap,9.28,Pork,Spanish
+MD-1141,2025-05-29,Vegetarian,Chicken Caesar Salad,Healthy Pack,6.65,Salmon,Indian
+MD-1142,2025-05-29,Classic,Roast Pork,Meal Box,8.32,Quinoa,Vegan
+MD-1143,2025-05-29,Classic,Grilled Chicken Sandwich,Bowl,8.1,Lentils,Indian
+MD-1144,2025-05-29,Low-Carb,Tofu Stir Fry,Basket,7.41,Chicken,Italian
+MD-1145,2025-05-29,Classic,Quinoa Bowl,Plate,8.23,Tofu,BBQ
+MD-1146,2025-05-29,Classic,Turkey Salad,Wrap,7.36,Beef,Spanish
+MD-1147,2025-05-29,Vegan,Turkey Salad,Slice,7.96,Turkey,Indian
+MD-1148,2025-05-29,Vegetarian,Vegetable Stir Fry,Plate,6.46,Pork,Fitness
+MD-1149,2025-05-29,Vegan,Turkey Salad,Sandwich,8.59,Lentils,Indian
+MD-1150,2025-05-29,Vegetarian,Chicken Caesar Salad,Meal Box,8.23,Pork,Indian
