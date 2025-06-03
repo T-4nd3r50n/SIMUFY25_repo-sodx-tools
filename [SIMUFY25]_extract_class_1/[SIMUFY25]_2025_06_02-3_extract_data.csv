@@ -1,0 +1,51 @@
+Menu_id,Date,Assortment,Receipe,Retail_Item,Retail_Price,Article,MenuPlan
+M-2378,2025-06-02,Meat,Beef Lasagna,Chicken Breast,6.98,QP-005,Standard
+M-6470,2025-06-02,Seafood,Veggie Burger,Ground Beef,7.8,BB-004,Express
+M-4651,2025-06-02,Vegan,Quinoa Salad,Tofu Block,7.73,TF-002,Standard
+M-7838,2025-06-02,Gluten-Free,Tofu Stir Fry,Chicken Breast,10.19,CH-001,Standard
+M-2534,2025-06-02,Gluten-Free,Grilled Chicken,Burger Bun,10.45,TF-002,Deluxe
+M-3036,2025-06-02,Vegetarian,Tofu Stir Fry,Ground Beef,8.03,TF-002,Deluxe
+M-8742,2025-06-02,Vegan,Veggie Burger,Ground Beef,6.23,QP-005,Premium
+M-3223,2025-06-02,Meat,Beef Lasagna,Chicken Breast,10.36,CH-001,Deluxe
+M-1134,2025-06-02,Seafood,Beef Lasagna,Burger Bun,14.51,BF-003,Premium
+M-7163,2025-06-02,Meat,Grilled Chicken,Ground Beef,11.81,BF-003,Premium
+M-9187,2025-06-02,Meat,Grilled Chicken,Chicken Breast,7.2,CH-001,Economy
+M-2677,2025-06-02,Vegetarian,Veggie Burger,Chicken Breast,7.91,TF-002,Economy
+M-3633,2025-06-02,Meat,Tofu Stir Fry,Quinoa Pack,14.89,BF-003,Deluxe
+M-4259,2025-06-02,Gluten-Free,Grilled Chicken,Quinoa Pack,10.21,CH-001,Standard
+M-9263,2025-06-02,Vegan,Quinoa Salad,Quinoa Pack,10.23,BB-004,Deluxe
+M-2707,2025-06-02,Seafood,Beef Lasagna,Tofu Block,11.84,TF-002,Premium
+M-8903,2025-06-02,Meat,Beef Lasagna,Chicken Breast,14.92,CH-001,Economy
+M-5848,2025-06-02,Seafood,Beef Lasagna,Quinoa Pack,13.67,QP-005,Express
+M-6372,2025-06-02,Seafood,Quinoa Salad,Tofu Block,5.49,TF-002,Deluxe
+M-6142,2025-06-02,Seafood,Quinoa Salad,Tofu Block,14.98,BB-004,Premium
+M-7407,2025-06-02,Gluten-Free,Veggie Burger,Ground Beef,6.82,CH-001,Economy
+M-6614,2025-06-02,Vegetarian,Veggie Burger,Tofu Block,9.93,CH-001,Premium
+M-5116,2025-06-02,Seafood,Veggie Burger,Burger Bun,9.34,TF-002,Premium
+M-2054,2025-06-02,Vegan,Grilled Chicken,Ground Beef,6.84,TF-002,Deluxe
+M-8827,2025-06-02,Seafood,Beef Lasagna,Quinoa Pack,14.44,BB-004,Standard
+M-1261,2025-06-02,Gluten-Free,Tofu Stir Fry,Tofu Block,13.16,BB-004,Express
+M-6612,2025-06-02,Vegan,Veggie Burger,Tofu Block,6.25,TF-002,Premium
+M-9753,2025-06-02,Vegetarian,Grilled Chicken,Ground Beef,5.39,CH-001,Standard
+M-6945,2025-06-02,Seafood,Tofu Stir Fry,Chicken Breast,12.4,BF-003,Economy
+M-9462,2025-06-02,Vegan,Veggie Burger,Quinoa Pack,7.97,BB-004,Deluxe
+M-5860,2025-06-02,Vegetarian,Beef Lasagna,Chicken Breast,11.52,QP-005,Standard
+M-8604,2025-06-02,Vegetarian,Quinoa Salad,Chicken Breast,8.86,TF-002,Deluxe
+M-6931,2025-06-02,Meat,Grilled Chicken,Ground Beef,6.41,CH-001,Express
+M-1110,2025-06-02,Vegetarian,Quinoa Salad,Quinoa Pack,7.79,CH-001,Economy
+M-4242,2025-06-02,Gluten-Free,Grilled Chicken,Tofu Block,14.72,BB-004,Economy
+M-9019,2025-06-02,Vegetarian,Veggie Burger,Quinoa Pack,7.98,CH-001,Express
+M-9432,2025-06-02,Vegan,Grilled Chicken,Ground Beef,13.59,CH-001,Economy
+M-3127,2025-06-02,Gluten-Free,Grilled Chicken,Chicken Breast,5.94,CH-001,Economy
+M-4686,2025-06-02,Vegan,Quinoa Salad,Ground Beef,8.6,QP-005,Express
+M-4733,2025-06-02,Vegetarian,Veggie Burger,Chicken Breast,7.34,TF-002,Premium
+M-8567,2025-06-02,Seafood,Quinoa Salad,Ground Beef,10.02,QP-005,Economy
+M-6920,2025-06-02,Gluten-Free,Quinoa Salad,Chicken Breast,8.52,TF-002,Express
+M-1331,2025-06-02,Vegetarian,Beef Lasagna,Quinoa Pack,8.57,TF-002,Economy
+M-2990,2025-06-02,Gluten-Free,Quinoa Salad,Ground Beef,13.81,QP-005,Express
+M-2829,2025-06-02,Vegetarian,Veggie Burger,Ground Beef,6.34,QP-005,Economy
+M-7134,2025-06-02,Seafood,Tofu Stir Fry,Tofu Block,5.82,TF-002,Premium
+M-5155,2025-06-02,Gluten-Free,Quinoa Salad,Quinoa Pack,5.91,TF-002,Deluxe
+M-4849,2025-06-02,Vegan,Grilled Chicken,Burger Bun,13.5,TF-002,Deluxe
+M-9913,2025-06-02,Seafood,Grilled Chicken,Tofu Block,12.63,QP-005,Economy
+M-8959,2025-06-02,Vegetarian,Quinoa Salad,Tofu Block,10.43,QP-005,Deluxe
