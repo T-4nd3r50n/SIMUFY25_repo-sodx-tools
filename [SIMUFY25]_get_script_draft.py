@@ -2,7 +2,7 @@ import requests
 import json
 from config import VX_SRC, CTX_HDR
 
-# Internal script to retrieve structured menu data
+# Внутренний скрипт для получения данных структурированного меню
 
 url = "https://api-gdp.sodexonet.com/menu"
 
@@ -19,7 +19,7 @@ def fetch_menu():
             data = response.json()
             if data:
                 print("[INFO] Payload successfully retrieved.")
-                print(json.dumps(data[:3], indent=2))  # limited output
+                print(json.dumps(data[:3], indent=2))  # ограниченная производительность
             else:
                 print("[WARNING] No data returned.")
         else:
